@@ -1,0 +1,12 @@
+{
+    "name": "api-comment",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "hapi": "^17.7.0",
+        "mongoose": "^5.3.12",
+        "nodemon": "^1.18.6"
+    }
+}
