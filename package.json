@@ -5,8 +5,10 @@
         "start": "node server.js"
     },
     "dependencies": {
+        "isomorphic-unfetch": "3.0.0",
         "hapi": "^17.7.0",
         "mongoose": "^5.3.12",
-        "nodemon": "^1.18.6"
+        "nodemon": "^1.18.6",
+        "now": "^12.1.9"
     }
 }
